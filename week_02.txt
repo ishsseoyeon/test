@@ -1,0 +1,2 @@
+- orientatin, python iterior installaton, pycharm insrallation
+- hello.py, hello_name.py, fahrenheit_to_celsius
