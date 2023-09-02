@@ -1,0 +1,3 @@
+week01
+- linux command
+- git command
